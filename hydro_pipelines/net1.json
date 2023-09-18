@@ -1,9 +1,9 @@
 {
   "nodes": [
-    { "id": 0, "attributes": { "type": "user", "p": 7.4 } },
-    { "id": 1, "attributes": { "type": "user", "p": 0 } },
-    { "id": 2, "attributes": { "type": "movie", "p": 0 } },
-    { "id": 3, "attributes": { "type": "movie", "p": 5.4 } }
+    { "id": 0, "attributes": { "q": 0.0, "p": 7.4 } },
+    { "id": 1, "attributes": { "q": 0.0, "p": 0.0 } },
+    { "id": 2, "attributes": { "q": 0.0, "p": 0.0 } },
+    { "id": 3, "attributes": { "q": 0.0, "p": 5.4 } }
   ],
 
   "edges": [
