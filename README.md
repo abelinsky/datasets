@@ -1,3 +1,3 @@
 # datasets
 
-zip -r hydrographs.zip . -i \*.json
+zip -r hydropipelines.zip . -i \*.json
