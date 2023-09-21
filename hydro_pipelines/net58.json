@@ -1,0 +1,175 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "attributes": {
+                "q": 0.0,
+                "p": 6.4
+            },
+            "id": 0
+        },
+        {
+            "attributes": {
+                "q": 0.0,
+                "p": 0
+            },
+            "id": 1
+        },
+        {
+            "attributes": {
+                "q": 0.0,
+                "p": 0
+            },
+            "id": 2
+        },
+        {
+            "attributes": {
+                "q": 0.0,
+                "p": 0
+            },
+            "id": 3
+        },
+        {
+            "attributes": {
+                "q": 0.0,
+                "p": 0
+            },
+            "id": 4
+        },
+        {
+            "attributes": {
+                "q": 0.0,
+                "p": 0
+            },
+            "id": 5
+        },
+        {
+            "attributes": {
+                "q": 0.0,
+                "p": 0
+            },
+            "id": 6
+        },
+        {
+            "attributes": {
+                "q": 0.0,
+                "p": 0
+            },
+            "id": 7
+        },
+        {
+            "attributes": {
+                "q": 0.0,
+                "p": 0
+            },
+            "id": 8
+        },
+        {
+            "attributes": {
+                "q": 0.0,
+                "p": 4.1
+            },
+            "id": 9
+        }
+    ],
+    "links": [
+        {
+            "attributes": {
+                "length": 35,
+                "diam_in": 1400
+            },
+            "source": 0,
+            "target": 1
+        },
+        {
+            "attributes": {
+                "length": 34,
+                "diam_in": 1200
+            },
+            "source": 1,
+            "target": 2
+        },
+        {
+            "attributes": {
+                "length": 39,
+                "diam_in": 1200
+            },
+            "source": 1,
+            "target": 4
+        },
+        {
+            "attributes": {
+                "length": 24,
+                "diam_in": 1000
+            },
+            "source": 1,
+            "target": 5
+        },
+        {
+            "attributes": {
+                "length": 21,
+                "diam_in": 1000
+            },
+            "source": 2,
+            "target": 3
+        },
+        {
+            "attributes": {
+                "length": 23,
+                "diam_in": 700
+            },
+            "source": 3,
+            "target": 6
+        },
+        {
+            "attributes": {
+                "length": 22,
+                "diam_in": 700
+            },
+            "source": 3,
+            "target": 8
+        },
+        {
+            "attributes": {
+                "length": 30,
+                "diam_in": 1000
+            },
+            "source": 4,
+            "target": 9
+        },
+        {
+            "attributes": {
+                "length": 46,
+                "diam_in": 1000
+            },
+            "source": 5,
+            "target": 9
+        },
+        {
+            "attributes": {
+                "length": 49,
+                "diam_in": 700
+            },
+            "source": 6,
+            "target": 7
+        },
+        {
+            "attributes": {
+                "length": 45,
+                "diam_in": 700
+            },
+            "source": 7,
+            "target": 9
+        },
+        {
+            "attributes": {
+                "length": 25,
+                "diam_in": 700
+            },
+            "source": 8,
+            "target": 9
+        }
+    ]
+}
