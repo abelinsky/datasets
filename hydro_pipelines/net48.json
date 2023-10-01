@@ -6,7 +6,7 @@
         {
             "attributes": {
                 "q": 0.0,
-                "p": 6.1
+                "p": 6.2
             },
             "id": 0
         },
@@ -69,7 +69,7 @@
         {
             "attributes": {
                 "q": 0.0,
-                "p": 3.7
+                "p": 4.2
             },
             "id": 9
         }
@@ -85,31 +85,39 @@
         },
         {
             "attributes": {
-                "length": 43,
+                "length": 39,
                 "diam_in": 1400
+            },
+            "source": 0,
+            "target": 6
+        },
+        {
+            "attributes": {
+                "length": 36,
+                "diam_in": 1200
+            },
+            "source": 0,
+            "target": 8
+        },
+        {
+            "attributes": {
+                "length": 49,
+                "diam_in": 1200
             },
             "source": 1,
             "target": 2
         },
         {
             "attributes": {
-                "length": 22,
+                "length": 40,
                 "diam_in": 1200
             },
             "source": 1,
-            "target": 4
+            "target": 7
         },
         {
             "attributes": {
-                "length": 35,
-                "diam_in": 1000
-            },
-            "source": 1,
-            "target": 5
-        },
-        {
-            "attributes": {
-                "length": 22,
+                "length": 44,
                 "diam_in": 1000
             },
             "source": 2,
@@ -117,31 +125,31 @@
         },
         {
             "attributes": {
-                "length": 28,
+                "length": 32,
                 "diam_in": 700
             },
             "source": 3,
-            "target": 6
+            "target": 4
         },
         {
             "attributes": {
-                "length": 40,
+                "length": 49,
                 "diam_in": 700
             },
             "source": 3,
-            "target": 8
+            "target": 5
         },
         {
             "attributes": {
-                "length": 22,
-                "diam_in": 1000
+                "length": 35,
+                "diam_in": 700
             },
             "source": 4,
             "target": 9
         },
         {
             "attributes": {
-                "length": 26,
+                "length": 50,
                 "diam_in": 700
             },
             "source": 5,
@@ -149,24 +157,24 @@
         },
         {
             "attributes": {
-                "length": 35,
-                "diam_in": 700
+                "length": 47,
+                "diam_in": 1200
             },
             "source": 6,
-            "target": 7
+            "target": 9
         },
         {
             "attributes": {
-                "length": 35,
-                "diam_in": 700
+                "length": 39,
+                "diam_in": 1000
             },
             "source": 7,
             "target": 9
         },
         {
             "attributes": {
-                "length": 37,
-                "diam_in": 700
+                "length": 41,
+                "diam_in": 1000
             },
             "source": 8,
             "target": 9
